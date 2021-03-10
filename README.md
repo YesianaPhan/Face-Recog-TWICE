@@ -6,11 +6,14 @@ there are 2 folder which are train and test
 
 the train folder contains the name of the members
 ![image](https://user-images.githubusercontent.com/76993601/110576699-c4fca780-8193-11eb-88b9-6d0a6b137af0.png)
+
+
 as each folders have the face of the members (I only show one of the folders, because if I show them all it will be too many images)
 ![image](https://user-images.githubusercontent.com/76993601/110576799-f5dcdc80-8193-11eb-9ca0-b979e276845c.png)
 
 as for the test folder, contains 6 images of the members 
 ![image](https://user-images.githubusercontent.com/76993601/110576840-0ab97000-8194-11eb-9372-127026db3251.png)
+
 
 there are 8 functions that were used in this code :
 1. get the directory path list
