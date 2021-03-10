@@ -19,12 +19,12 @@ as for the test folder, contains 6 images of the members
 <br/>
 
 there are 8 functions that were used in this code :
-1. get the directory path list
-2. get the labels of the images 
-3. detect the trains faces and filter it, using haarcascade_frontalface_default.xml
-4. get the test images and convert it into a list
-5. detect the test faces and filter, once again using haarcascade_frontalface_default.xml
-6. predict the images
+1. get the directory path list</br> in this function, it is mean to get the directory of the path, so we can use it on the next function </br>
+2. get the labels of the images </br> here is when the each images get the labels / class id </br>
+3. detect the trains faces and filter it, using haarcascade_frontalface_default.xml </br> before we detecting the faces we need to convert it into grayscale, then put the face rectangle around the detected face </br>
+4. get the test images and convert it into a list 
+5. detect the test faces and filter, once again using haarcascade_frontalface_default.xml </br> this function is the same as no.3, the difference is in this function we use the test images instead for the testing purpose</br>
+6. predict the images </br> predict the images using cascade classifier, and append the result into the list</br>
 7. now draw the prediction result using cv2, also print the calculated accuracy and the rectangle around their detected faces
-8. combine and show the result altogether
+8. combine and show the result altogether 
 ![image](https://user-images.githubusercontent.com/76993601/110576506-77803a80-8193-11eb-910a-8131d0ac00d8.png)
