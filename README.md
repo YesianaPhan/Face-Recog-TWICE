@@ -1,9 +1,12 @@
 # Face-Recog-TWICE
 in this code, we want to recognize every twice member, first I want to explain the dataset : 
 there are 2 folder which are train and test
+![image](https://user-images.githubusercontent.com/76993601/110577330-0477c380-8195-11eb-8b55-0149f7a625ed.png)
+
+
 the train folder contains the name of the members
 ![image](https://user-images.githubusercontent.com/76993601/110576699-c4fca780-8193-11eb-88b9-6d0a6b137af0.png)
-as each folders have the face of the members
+as each folders have the face of the members (I only show one of the folders, because if I show them all it will be too many images)
 ![image](https://user-images.githubusercontent.com/76993601/110576799-f5dcdc80-8193-11eb-9ca0-b979e276845c.png)
 
 as for the test folder, contains 6 images of the members 
