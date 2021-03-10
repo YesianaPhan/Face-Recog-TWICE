@@ -2,18 +2,21 @@
 in this code, we want to recognize every twice member, first I want to explain the dataset : 
 there are 2 folder which are train and test
 ![image](https://user-images.githubusercontent.com/76993601/110577330-0477c380-8195-11eb-8b55-0149f7a625ed.png)
-
+<br/>
+<br/>
 
 the train folder contains the name of the members
 ![image](https://user-images.githubusercontent.com/76993601/110576699-c4fca780-8193-11eb-88b9-6d0a6b137af0.png)
-
-
+<br/>
+<br/>
 as each folders have the face of the members (I only show one of the folders, because if I show them all it will be too many images)
 ![image](https://user-images.githubusercontent.com/76993601/110576799-f5dcdc80-8193-11eb-9ca0-b979e276845c.png)
-
+<br/>
+<br/>
 as for the test folder, contains 6 images of the members 
 ![image](https://user-images.githubusercontent.com/76993601/110576840-0ab97000-8194-11eb-9372-127026db3251.png)
-
+<br/>
+<br/>
 
 there are 8 functions that were used in this code :
 1. get the directory path list
